@@ -1,4 +1,4 @@
-# **Unidad Didáctica 1: Uso de Git y GitHub**
+# **Unidad 2: Uso de Git y GitHub**
 
 ## **1. Introducción Avanzada a Git y GitHub**
 

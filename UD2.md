@@ -1,6 +1,6 @@
 # **Unidad 2: Uso de Git y GitHub**
 
-## **1. Introducción Avanzada a Git y GitHub**
+## **1. Introducción a Git y GitHub**
 
 ### **1.1. ¿Qué es Git?**  
 Git es un **sistema de control de versiones distribuido** que permite a los desarrolladores gestionar y realizar un seguimiento de los cambios en los archivos de código a lo largo del tiempo. A diferencia de los sistemas de control de versiones centralizados, Git permite que cada desarrollador mantenga una copia completa del repositorio, lo que proporciona mayor flexibilidad, redundancia y autonomía. Entre sus principales ventajas, Git permite la **colaboración eficiente entre múltiples desarrolladores** que trabajan en el mismo proyecto de software, ofreciendo la capacidad de **sincronizar cambios, resolver conflictos**, y **volver a versiones anteriores** del código de manera sencilla y rápida.

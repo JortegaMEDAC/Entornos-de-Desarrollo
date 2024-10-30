@@ -1,9 +1,18 @@
 # Entornos-de-Desarrollo
 
-### Día 3 - 25/10/2024
+#### Enlace para ver la clase en meet
+[Clase en Google Meet](https://meet.google.com/wex-cbon-jfj)
+
+### Día 4 - 30/10/2024
 
 - Inicio Unidad 2: Git, GitHub y GitHub Desktop.
+- Presentación de Git y GitHub básico.
+- Ejemplo de uso (si da tiempo).
 - Tutorial de Git. [Learn Git Branching](https://learngitbranching.js.org/?locale=es_ES)
+  
+### Día 3 - 25/10/2024
+
+- Terminamos la creación de un manual con la [sintaxis básica](https://www.markdownguide.org/basic-syntax/)
 
 ### Día 2 - 23/10/2024
 

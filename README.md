@@ -3,6 +3,12 @@
 #### Enlace para ver la clase en meet
 [Clase en Google Meet](https://meet.google.com/wex-cbon-jfj)
 
+### Día 5 - 29/01/2025
+
+- Git
+- GitHub
+- GitHub Desktop
+
 ### Día 4 - 30/10/2024
 
 - Inicio Unidad 2: Git, GitHub y GitHub Desktop.

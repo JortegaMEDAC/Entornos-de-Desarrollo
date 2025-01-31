@@ -3,6 +3,10 @@
 #### Enlace para ver la clase en meet
 [Clase en Google Meet](https://meet.google.com/wex-cbon-jfj)
 
+### Día 6 - 31/01/2025
+
+- Publicación del taller 1 - Ejercicio de git
+
 ### Día 5 - 29/01/2025
 
 - Git

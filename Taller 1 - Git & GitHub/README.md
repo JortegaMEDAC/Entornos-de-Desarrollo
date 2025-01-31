@@ -35,7 +35,7 @@ Agrega esos dos archivos al staging area y realiza el **primer commit** del repo
 
 ## #3 Correcciones básicas
 
-¿Tu nombre no es Jose? Vamos a cambiar el nombre del archivo Hernán.txt para que coincida con el tuyo.
+¿Tu nombre no es Jose? Vamos a cambiar el nombre del archivo `Jose.txt` para que coincida con el tuyo.
 
 De tal forma que **reescribas** el commit realizado en el paso anterior, renombra el archivo `Jose.txt` a `<tu-nombre>.txt`, p. ej. `Pablo.txt` o `Teresa.txt`.
 

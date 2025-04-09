@@ -3,6 +3,11 @@
 #### Enlace para ver la clase en meet
 [Clase en Google Meet](https://meet.google.com/wex-cbon-jfj)
 
+### Día 7 - 09/04/2025
+- Publicación de las UD 4 y 5
+- Presentación de Clean Code
+- Ejemplos de test unitarios
+
 ### Día 6 - 31/01/2025
 
 - Publicación del taller 1 - Ejercicio de git
